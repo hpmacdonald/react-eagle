@@ -75,6 +75,10 @@
     text-decoration: none;
   }
   
+  img {
+    height: 400px;
+    width: auto;
+  }
   .section{
     padding:20px 0;
   }
